@@ -9,6 +9,8 @@ This service manages a small product domain with following operations:
 - get all product 
 - create a product 
 
+![Product service overview](jami-product-service-overview.png "Product service overview")
+
 But it's rather an argument to discover how we can design a Java microservice with Quarkus :)
 
 ## Technical topics
